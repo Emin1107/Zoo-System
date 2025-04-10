@@ -1,0 +1,6 @@
+OOP
+Shoopy
+Eisi;Lion;17;20
+Hans;Giraffe;5;1.1
+Lukas;Gorilla;7;175
+Felix;Dolphin;2;10
