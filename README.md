@@ -1,11 +1,11 @@
-# zOOP – A Terminal-Based Zoo Simulation Game
+# ZOOTB – A Terminal-Based Zoo Simulation Game
 
 ![Language](https://img.shields.io/badge/Language-C++-blue.svg)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
 ![Platform](https://img.shields.io/badge/Platform-Unix%2Flike-lightgrey)  
 ![Status](https://img.shields.io/badge/Status-Playably%20Addictive-brightgreen)
 
-**zOOP** is a fully terminal-based zoo management game written in modern C++. Designed with an emphasis on logic, structure, and fun, it lets you build enclosures, buy animals, and rate your zoo — all from the command line.
+**ZOOTB** is a fully terminal-based zoo management game written in modern C++. Designed with an emphasis on logic, structure, and fun, it lets you build enclosures, buy animals, and rate your zoo — all from the command line.
 
 Whether you want to micromanage dolphins or let giraffes and lions roam, zOOP gives you full control (and a few headaches) as a zookeeper.
 
@@ -45,7 +45,7 @@ Whether you want to micromanage dolphins or let giraffes and lions roam, zOOP gi
 Use `g++` to compile all your source files:
 
 ```bash
-g++ -Wall -Wextra -std=c++17 -o zoop *.cpp
+g++ -o zootb *.cpp
 ```
 
 Or use a Makefile if you’ve got one!
@@ -55,7 +55,7 @@ Or use a Makefile if you’ve got one!
 Once compiled, just run:
 
 ```bash
-./zoop
+./zootb
 ```
 
 You'll be greeted with a fancy welcome message and a prompt:
